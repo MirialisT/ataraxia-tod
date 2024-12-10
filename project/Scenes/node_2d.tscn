@@ -1,0 +1,13 @@
+[gd_scene format=3 uid="uid://cnunvwjfbt88k"]
+
+[node name="Node2D" type="Node2D"]
+
+[node name="RichTextLabel" type="RichTextLabel" parent="."]
+offset_left = 319.0
+offset_top = 218.0
+offset_right = 767.0
+offset_bottom = 263.0
+size_flags_horizontal = 4
+size_flags_vertical = 4
+tooltip_text = "A little tooltip for test"
+text = "This is just sample text to check fonts and stuff"
